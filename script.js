@@ -8,7 +8,7 @@ function myFunction(item) {
   sum += item;
 }
 
-console.log(sum)
+//console.log(sum)
 
 let sum1 = -100;
 const numbers1 = [10,20,30,40,50]
@@ -19,7 +19,7 @@ function items(a){
     sum1 += a;
 }
 
-console.log(sum1)
+//console.log(sum1)
 
 
 const arr = 
